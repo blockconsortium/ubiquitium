@@ -1,4 +1,4 @@
-Ubiquitium Core
+Ubiquitium Blockchain
 ===================================== 
 ![](share/pixmaps/bitcoin128.png)
 

@@ -6,7 +6,7 @@ Ubiquitium
 ---------------- 
 ![](share/pixmaps/nsis-header.bmp)
 
-I want to introduce a new scrypt blockchain with no pre-mine.  As with most blockchains, we will develop this coin over time.  Today, we start with the ANN, wallets, Github, and pool.  The Ubiquitium Blockchain is a community project that will see many upgrades over time.
+I want to introduce a new scrypt blockchain with no pre-mine.  As with most blockchains, we will develop this coin over time.  Today, we start with the ANN, wallets, Github, and pool. The Ubiquitium Blockchain is a community project that will see many upgrades over time.
 
 The words ubiquitous and ubique mean everywhere.  We modelled this coin with the concept of everywhere in mind.  The Ubiquitium Blockchain is about being everywhere and belongs to everyone. 
 
